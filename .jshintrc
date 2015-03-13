@@ -1,0 +1,28 @@
+{
+    "boss": true,
+    "browser": true,
+    "curly": false,
+    "eqeqeq": true,
+    "eqnull": true,
+    "expr": true,
+    "immed": true,
+    "noarg": true,
+    "quotmark": "single",
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "globals": {
+        "module": true,
+        "define": true,
+        "require": true,
+        "global": true,
+        "exports": true,
+        "describe": true,
+        "it": true,
+        "expect": true,
+        "before": true,
+        "beforeEach": true,
+        "after": true,
+        "afterEach": true
+    }
+}
