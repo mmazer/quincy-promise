@@ -22,4 +22,4 @@ gulp.task('clean', function() {
       .pipe( rm());
 });
 
-gulp.task('default', ['build']);
+gulp.task('default', ['test']);
